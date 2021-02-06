@@ -12,15 +12,15 @@ Gateway distribuito che assicura la validità delle richieste alle API controlla
 
 ## Documentazione ufficiale / Latex per il progetto APIM (SWE 2016-2017)
 
-  + <a href="docs/AnalisiDeiRequisiti.pdf">Analisi dei Requisiti</a>
-  + <a href="docs/DefinizioneDiProdotto.pdf">Definizione di Prodotto</a>
-  + <a href="docs/Glossario.pdf">Glossario</a>
-  + <a href="docs/ManualeManutentore.pdf">Manuale Manutentore</a>
-  + <a href="docs/ManualeUtente.pdf">Manuale Utente</a>
-  + <a href="docs/NormeDiProgetto.pdf">Norme di Progetto</a>
-  + <a href="docs/PianoDiProgetto.pdf">Piano di Progetto</a>
-  + <a href="docs/PianoDiQualifica.pdf">Piano di Qualifica</a>
-  + <a href="docs/SpecificaTecnica.pdf">Specifica Tecnica</a>
+  + <a href="Docs/AnalisiDeiRequisiti.pdf">Analisi dei Requisiti</a>
+  + <a href="Docs/DefinizioneDiProdotto.pdf">Definizione di Prodotto</a>
+  + <a href="Docs/Glossario.pdf">Glossario</a>
+  + <a href="Docs/ManualeManutentore.pdf">Manuale Manutentore</a>
+  + <a href="Docs/ManualeUtente.pdf">Manuale Utente</a>
+  + <a href="Docs/NormeDiProgetto.pdf">Norme di Progetto</a>
+  + <a href="Docs/PianoDiProgetto.pdf">Piano di Progetto</a>
+  + <a href="Docs/PianoDiQualifica.pdf">Piano di Qualifica</a>
+  + <a href="Docs/SpecificaTecnica.pdf">Specifica Tecnica</a>
 
 - - -
 
